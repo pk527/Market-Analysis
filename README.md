@@ -1,7 +1,10 @@
 # Market Analysis in North America
 
 ## Introduction
-This project involves analyzing data from Maven Market, a multi-national grocery chain operating in Canada, Mexico, and the United States. The objective is to demonstrate Power BI skills by completing the full business intelligence workflow, including data connection, shaping, relational modeling, calculated fields, and interactive reporting.
+The project involves analyzing data from Maven Market, a multi-national grocery chain operating in Canada, Mexico, and the United States. The objective is to demonstrate Power BI skills by completing the full business intelligence workflow, including data connection, shaping, relational modeling, calculated fields, and interactive reporting.
+
+<img width="1280" alt="Screenshot 2025-01-15 112116](https://github.com/user-attachments/assets/a0fe062f-4e73-4f45-833f-a92574f02d26)">
+
 
 ## Data Integration
 ### Data Sources
@@ -150,6 +153,14 @@ FROM
 4. **Profitability:** Maintained a consistent 60% profit margin across categories.
 5. **Return Rates:** Average return rate is 11%, with some brands higher than average.
 6. **Weekend Transactions:** 28.4% of transactions occur on weekends, suggesting high-traffic periods.
+
+---
+##Dashboard Benefits
+The Dashboard is a dynamic tool that brings data to life, transforming complex information into meaningful insights that drive smarter decisions. With its sleek, interactive design, the dashboard serves as a window into the heart of the business—revealing revenue patterns, transaction performance, and profitability metrics with remarkable clarity. It goes beyond numbers, offering an in-depth understanding of geographical trends, from the high-performing U.S. markets to opportunities in Canada and Mexico.
+
+What truly sets this dashboard apart is its ability to tell a story. Each visualization, whether it's the KPIs, maps, or trendlines, paints a clear picture of where the business stands and where it’s headed. The customizable filters and drill-down features allow users to dive deep into specific product brands, customer segments, or regions, making analysis both efficient and personal. High-performing brands, like Cormorant and Carrington, shine through the data, offering inspiration for future strategies, while areas of improvement, such as return rates, are clearly highlighted for action.
+
+By tracking progress against revenue goals and spotlighting high-traffic periods, such as weekends, the dashboard equips teams with the insights needed to act swiftly and strategically. Beyond just presenting data, it inspires forward-thinking by identifying patterns and opportunities that might otherwise go unnoticed. More than a reporting tool, the Maven Market dashboard is a strategic partner—empowering teams to focus on what matters most, streamline operations, and continuously adapt to meet the demands of an evolving market. With its blend of functionality and foresight, it’s not just a tool for today—it’s a foundation for tomorrow’s success.
 
 ---
 
