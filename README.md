@@ -155,6 +155,7 @@ FROM
 6. **Weekend Transactions:** 28.4% of transactions occur on weekends, suggesting high-traffic periods.
 
 ---
+
 ##Dashboard Benefits
 
 The Dashboard is a dynamic tool that brings data to life, transforming complex information into meaningful insights that drive smarter decisions. With its sleek, interactive design, the dashboard serves as a window into the heart of the business—revealing revenue patterns, transaction performance, and profitability metrics with remarkable clarity. It goes beyond numbers, offering an in-depth understanding of geographical trends, from the high-performing U.S. markets to opportunities in Canada and Mexico.
